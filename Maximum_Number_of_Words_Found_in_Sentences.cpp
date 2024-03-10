@@ -1,19 +1,25 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     int mostWordsFound(vector<string>& sentences) {
-        int max = 0;
+        int maxWords = 0;
         
-        for(int i = 0; i<sentences.size(); i++){
-            int cnt = 1;
-            for(int j = 0; j<sentences[i].size(); j++){
-                if(sentences[i][j] == ' ')
-                cnt++;
+        for (const string& sentence : sentences) {
+            int wordCount = 1;
+            for (char c : sentence) {
+                if (c == ' ') {
+                    wordCount++;
+                }
             }
-            if(cnt>max){
-                max = cnt;
+            if (wordCount > maxWords) {
+                maxWords = wordCount;
             }
-
         }
-        return max;
+        
+        return maxWords;
     }
 };
