@@ -10,14 +10,11 @@ public:
             while (left < right) {
                 int sum = nums[i] + nums[left] + nums[right];
                 int dif = 0;
-                if(target == sum){
-                    return sum;
-                }else{
-                    if(target<0){
+                if(target<0){
                     dif = target + sum; 
                 }else
                     dif = (target - sum);
-    
+                cout<<dif;
                 if (dif<=diff) {
                     diff = dif;
                     fsum =sum;
@@ -28,8 +25,6 @@ public:
                 } else {
                     --right;
                 }
-                }
-                
             }
         }
         
