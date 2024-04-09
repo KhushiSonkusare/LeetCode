@@ -1,28 +1,19 @@
-#include <vector>
-#include <algorithm> 
-
 class Solution {
 public:
-    void nextPermutation(std::vector<int>& nums) {
-        int n = nums.size();
-        int pivot = -1;
-
-        for (int i = n - 2; i >= 0; --i) {
-            if (nums[i] < nums[i + 1]) {
-                pivot = i;
-                break;
+    void nextPermutation(vector<int>& nums) {
+        if(nums[0] < nums[1]){
+            if(nums[1]<nums[2]){
+                swap(nums[2],nums[1]);
+            }else{
+                swap(nums[1],nums[0]);
+                swap(nums[1],nums[2]);
+            }
+        }else{
+            if(nums[1]<nums[2]){
+                swap(nums[2], nums[1]);
+            }else{
+                sort(nums.begin(),nums.end());
             }
         }
-
-        if (pivot != -1) {
-            for (int i = n - 1; i > pivot; --i) {
-                if (nums[i] > nums[pivot]) {
-                    std::swap(nums[i], nums[pivot]);
-                    break;
-                }
-            }
-        }
-
-        std::reverse(nums.begin() + pivot + 1, nums.end());
     }
 };
