@@ -20,6 +20,5 @@ public:
             return evaluateTree(root->left) || evaluateTree(root->right);
         else
             return evaluateTree(root->left) && evaluateTree(root->right);
-        return true;
     }
 };
