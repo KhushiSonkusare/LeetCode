@@ -5,7 +5,7 @@ public:
 
         if(size(prices)>1){
             if(prices[0] + prices[1] <= money){
-                return (money - prices[0] - prices[1]);
+                return (3 - prices[0] - prices[1]);
             }
         }
         return money;
