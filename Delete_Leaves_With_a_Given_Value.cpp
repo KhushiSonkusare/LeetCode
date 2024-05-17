@@ -21,7 +21,7 @@ public:
         
         
         if (root->left == nullptr && root->right == nullptr && root->val == target) {
-            root = nullptr;
+            delete root;
             return nullptr;
         }
         
