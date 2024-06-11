@@ -7,7 +7,7 @@ using namespace std;
 class Solution {
 public:
     long long taskSchedulerII(vector<int>& tasks, int space) {
-        unordered_map<long long, long long> freq;
+        unordered_map<int, int> freq;
         long long days = 0;
         for (int i = 0; i < tasks.size(); i++) {
             auto it = freq.find(tasks[i]);
