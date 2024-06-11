@@ -7,21 +7,35 @@ using namespace std;
 class Solution {
 public:
     long long taskSchedulerII(vector<int>& tasks, int space) {
-        unordered_map<int, long long> freq;  // Track the next available day for each task
+        unordered_map<long long, long long> freq;
         long long days = 0;
-
         for (int i = 0; i < tasks.size(); i++) {
-            if (freq.find(tasks[i]) == freq.end() || days >= freq[tasks[i]]) {
-                // If the task is not in the map or its cooldown period is over, execute it on the current day
+            auto it = freq.find(tasks[i]);
+            if (it == freq.end()) {
                 days++;
+                for (auto& pair : freq) {
+                    pair.second++;
+                }
+                freq[tasks[i]] = 0;
             } else {
-                // If the task is in the map and its cooldown period is not over, wait until the next available day
-                days = freq[tasks[i]];
+            if(it->second <= space ){
+                while (it->second <= space ) {
+                    days++;
+                    for (auto& pair : freq) {
+                        pair.second++;
+                    }
+                }
+              }else{
+                days++;
+                for (auto& pair : freq) {
+                        pair.second++;
+                    }
+              }       
+                
+                freq[tasks[i]] = 0;
             }
-            // Update the next available day for this task
-            freq[tasks[i]] = days + space + 1;
+            
         }
-
         return days;
     }
 };
