@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void paranthesis(int open, int close, string para, vector<string>& ans) {
-        if (open == 0 && close == 0) {
-            ans.push_back(para);
+    void generate(int n, int openingCount, int closingCount, string ans, vector<string> *list) {
+        if (openingCount == n && closingCount == n) {
+            list->push_back(ans);
             return;
         }
-        if (open > 0) {
-            paranthesis(open - 1, close, para + '(', ans);
+        if (openingCount < n) {
+            generate(n, openingCount + 1, closingCount, ans + "(", list);
         }
-        if (close > open) {
-            paranthesis(open, close - 1, para + ')', ans);
+        if (closingCount < openingCount) {
+            generate(n, openingCount, closingCount + 1, ans + ")", list);
         }
     }
 
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        paranthesis(n, n, "", ans);
-        return ans;
+        vector<string> list;
+        generate(n, 0, 0, "", &list);
+        return list;
     }
 };
