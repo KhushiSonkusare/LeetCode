@@ -1,0 +1,30 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class HelloWorld {
+    public static void printPer(String str, String ans){
+        if(str.length() == 0){
+            System.out.println(ans);
+            return;
+        }
+        
+        for(int i = 0; i<str.length(); i++){
+            char ch = str.charAt(i);
+            boolean found = false;
+            for(int j = 0; j<i; j++){
+                if(ch == str.charAt(j)){
+                    found = true;
+                    break;
+                }
+            }
+            if(!found){
+            printPer(str.substring(0, i) + str.substring(i+1), ans + str.charAt(i));
+            }
+        }
+    }
+    
+    public static void main(String[] args) {
+        String s = "aca";
+        printPer(s, "");
+    }
+}
