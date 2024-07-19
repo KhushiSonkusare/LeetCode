@@ -1,0 +1,26 @@
+#include <iostream>
+#include <string>
+
+void placeQueens(bool board[], int totalQueens, int queens, std::string ans, int size, int startIndex){
+    if(queens == totalQueens){
+        std::cout << ans << " ";
+        return;
+    }
+    
+    for(int i = startIndex; i < size; i++){
+        if(board[i] == false){
+            board[i] = true;
+            placeQueens(board, totalQueens, queens + 1, ans + "b" + std::to_string(i) + "q" + std::to_string(queens) + "", size, i+1);
+            board[i] = false;
+        }
+    }
+}
+
+int main() {
+    bool board[] = {false, false, false, false};
+    int totalQueens = 2;
+    int size = sizeof(board) / sizeof(board[0]);
+    placeQueens(board, totalQueens, 0, "", size, 0);
+
+    return 0;
+}
