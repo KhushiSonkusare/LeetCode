@@ -1,0 +1,20 @@
+class Solution {
+public:
+    void sum(int target, int &count, int k, int n){
+        if(target == 0 && n == 0){
+            count++;
+            return;
+        }
+        if(target < 0 || n == 0)
+            return;
+        for(int i = 1; i <= k; i++){
+            sum(target - i, count, k, n - 1);
+        }
+    }
+
+    int numRollsToTarget(int n, int k, int target) {
+        int count = 0;
+        sum(target, count, k, n);
+        return count;
+    }
+};
