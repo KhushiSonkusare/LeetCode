@@ -1,0 +1,17 @@
+#include <iostream>
+
+void toh(int n, char ta, char tb, char tc) {
+    if (n == 0)
+        return;
+    toh(n-1, ta, tc, tb);
+    
+    std::cout << "Move disk " << n << " from " << ta << " to " << tb << std::endl;
+    
+    toh(n-1, tc, tb, ta);
+}
+
+int main() {
+    int n = 3; 
+    toh(n, 'A', 'C', 'B');
+    return 0;
+}
