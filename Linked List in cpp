@@ -10,38 +10,99 @@ struct ListNode {
 
 void addFirst(int val, ListNode *&head) {
     ListNode *node = new ListNode(val);
-    
     if(head != nullptr) {
         node->next = head;
     }
     head = node;
 }
 
-void addLast(int val, ListNode *&head){
+void addLast(int val, ListNode *&head) {
     ListNode *node = new ListNode(val);
-    ListNode *temp = head;
-    if(head == nullptr){
+    if(head == nullptr) {
         head = node;
-    }else{
-        while(temp->next!= nullptr){
+    } else {
+        ListNode *temp = head;
+        while(temp->next != nullptr) {
             temp = temp->next;
         }
         temp->next = node;
     }
 }
 
-void addAtIndex(int val, ListNode *&head, int ind){
+void addAtIndex(int val, ListNode *&head, int ind) {
+    if(ind == 0) {
+        addFirst(val, head);
+        return;
+    }
     ListNode *node = new ListNode(val);
     ListNode *temp = head;
-    if(head == nullptr){
-        head = node;
-    }else{
-        for(int i = 0; i<ind -1 ; i++){
-            temp = temp->next;
-        }
-        ListNode *nextN = temp->next;
+    for(int i = 0; i < ind - 1 && temp != nullptr; i++) {
+        temp = temp->next;
+    }
+    if(temp != nullptr) {
+        node->next = temp->next;
         temp->next = node;
-        node->next = nextN;
+    }
+}
+
+int getFirst(ListNode *head) {
+    return head ? head->val : -1;
+}
+
+int getLast(ListNode *head) {
+    if(head == nullptr) return -1;
+    ListNode *temp = head;
+    while(temp->next != nullptr) {
+        temp = temp->next;
+    }
+    return temp->val;
+}
+
+int returnAtIndex(ListNode *head, int ind) {
+    ListNode *temp = head;
+    for(int i = 0; i < ind && temp != nullptr; i++) {
+        temp = temp->next;
+    }
+    return temp ? temp->val : -1;
+}
+
+void removeFirst(ListNode *&head) {
+    if(head != nullptr) {
+        ListNode *temp = head;
+        head = head->next;
+        delete temp;
+    }
+}
+
+void removeLast(ListNode *&head) {
+    if(head != nullptr) {
+        if(head->next == nullptr) {
+            delete head;
+            head = nullptr;
+        } else {
+            ListNode *temp = head;
+            while(temp->next->next != nullptr) {
+                temp = temp->next;
+            }
+            delete temp->next;
+            temp->next = nullptr;
+        }
+    }
+}
+
+void removeAtIndex(ListNode *&head, int ind) {
+    if(ind == 0) {
+        removeFirst(head);
+        return;
+    }
+    ListNode *temp = head;
+    for(int i = 0; i < ind - 1 && temp->next != nullptr; i++) {
+        temp = temp->next;
+    }
+    if(temp->next != nullptr) {
+        ListNode *nodeToDelete = temp->next;
+        temp->next = temp->next->next;
+        delete nodeToDelete;
     }
 }
 
@@ -61,8 +122,20 @@ int main() {
     addFirst(2, head);
     addFirst(3, head);
     addLast(4, head);
-    addAtIndex(5,head,2);
+    addAtIndex(5, head, 2);
+    display(head);
     
+    std::cout << "First: " << getFirst(head) << std::endl;
+    std::cout << "Last: " << getLast(head) << std::endl;
+    std::cout << "At index 1: " << returnAtIndex(head, 1) << std::endl;
+    
+    removeFirst(head);
+    display(head);
+    
+    removeLast(head);
+    display(head);
+    
+    removeAtIndex(head, 1);
     display(head);
 
     return 0;
