@@ -1,0 +1,39 @@
+#include <iostream>
+
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode() : val(0), next(nullptr) {}
+    ListNode(int x) : val(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
+
+void addFirst(int val, ListNode *&head) {
+    ListNode *node = new ListNode(val);
+    
+    if(head != nullptr) {
+        node->next = head;
+    }
+    head = node;
+}
+
+void display(ListNode *head) {
+    ListNode *temp = head;
+    while(temp != nullptr) {
+        std::cout << temp->val << " ";
+        temp = temp->next;
+    }
+    std::cout << std::endl;
+}
+
+int main() {
+    ListNode *head = nullptr;
+    
+    addFirst(1, head);
+    addFirst(2, head);
+    addFirst(3, head);
+    
+    display(head);
+
+    return 0;
+}
