@@ -17,6 +17,34 @@ void addFirst(int val, ListNode *&head) {
     head = node;
 }
 
+void addLast(int val, ListNode *&head){
+    ListNode *node = new ListNode(val);
+    ListNode *temp = head;
+    if(head == nullptr){
+        head = node;
+    }else{
+        while(temp->next!= nullptr){
+            temp = temp->next;
+        }
+        temp->next = node;
+    }
+}
+
+void addAtIndex(int val, ListNode *&head, int ind){
+    ListNode *node = new ListNode(val);
+    ListNode *temp = head;
+    if(head == nullptr){
+        head = node;
+    }else{
+        for(int i = 0; i<ind -1 ; i++){
+            temp = temp->next;
+        }
+        ListNode *nextN = temp->next;
+        temp->next = node;
+        node->next = nextN;
+    }
+}
+
 void display(ListNode *head) {
     ListNode *temp = head;
     while(temp != nullptr) {
@@ -32,6 +60,8 @@ int main() {
     addFirst(1, head);
     addFirst(2, head);
     addFirst(3, head);
+    addLast(4, head);
+    addAtIndex(5,head,2);
     
     display(head);
 
