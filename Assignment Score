@@ -1,0 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int T; // Number of test cases
+    cin >> T;
+
+    for (int t = 0; t < T; ++t) {
+        int N, sum = 0; 
+        cin >> N;
+
+        vector<int> scores(N);
+        for (int i = 0; i < N; ++i) {
+            cin >> scores[i];
+            sum += scores[i];
+        }
+        
+        int total = (N+1)*100;
+        int min = 0.5*total;
+        
+        if(sum>=min){
+            cout << 0 << endl;
+        }else{
+            int pass = min - sum;
+            if(pass > 0 && pass <= 100){
+                cout << pass << endl;
+            }else
+                cout<< -1 << endl;
+        }
+        
+    }
+    
+    return 0;
+
+}
