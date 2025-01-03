@@ -15,7 +15,7 @@ public:
             int first = prefixSum[i];
             int last = totalSum - first;
 
-            if (first >= last) {
+            if (first > last) {
                 count++;
             }
         }
