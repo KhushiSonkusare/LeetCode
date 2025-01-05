@@ -1,7 +1,7 @@
 class Solution {
 public:
     string shiftingLetters(string s, vector<vector<int>>& shifts) {
-        vector<long long> prefixSum(s.size(), 0);
+        vector<int> prefixSum(s.size(), 0);
 
         for (int i = 0; i < shifts.size(); i++) {
             int add = -1;
