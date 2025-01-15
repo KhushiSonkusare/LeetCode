@@ -1,0 +1,35 @@
+def countSetBits(n):
+    return bin(n).count('1')
+
+def solve():
+    T = int(input())
+    results = []
+    
+    for _ in range(T):
+        N = int(input())
+        P = list(map(int, input().split()))
+        
+        popcount_groups = {}
+        
+        for num in P:
+            popcount = countSetBits(num)
+            if popcount not in popcount_groups:
+                popcount_groups[popcount] = []
+            popcount_groups[popcount].append(num)
+        
+        for key in popcount_groups:
+            popcount_groups[key].sort()
+
+        sorted_permutation = []
+        for num in P:
+            popcount = countSetBits(num)
+            sorted_permutation.append(popcount_groups[popcount].pop(0))
+        
+        if sorted_permutation == sorted(P):
+            results.append("YES")
+        else:
+            results.append("NO")
+    
+    print("\n".join(results))
+
+solve()
