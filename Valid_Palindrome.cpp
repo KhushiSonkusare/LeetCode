@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(string s, long long left, long long right){
+    bool check(string s, int left, int right){
         
          if (left >= right) 
             return true;
