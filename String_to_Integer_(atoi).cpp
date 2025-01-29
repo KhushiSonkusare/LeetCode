@@ -1,3 +1,9 @@
+#include <unordered_map>
+#include <vector>
+#include <cmath>
+#include <cctype>
+#include <string>
+
 class Solution {
 public:
     int myAtoi(std::string s) {
@@ -6,8 +12,10 @@ public:
             {'5', 5}, {'6', 6}, {'7', 7}, {'8', 8}, {'9', 9}
         };
 
-        int flag = 1, i = 0, n = s.size(), answer = 0;
+        int flag = 1;  
+        int i = 0, n = s.size();
 
+     
         while (i < n && s[i] == ' ') i++;
 
         if (i < n && (s[i] == '-' || s[i] == '+')) {
@@ -15,14 +23,21 @@ public:
             i++;
         }
 
+        std::vector<int> ans;
+
+    
         while (i < n && std::isdigit(s[i])) {
-            int digit = digits[s[i]];
-
-            if (answer > (INT_MAX - digit) / 10) 
-                return flag == 1 ? INT_MAX : INT_MIN;
-
-            answer = answer * 10 + digit;
+            ans.push_back(digits[s[i]]);
             i++;
+        }
+
+        if (ans.empty()) return 0; 
+
+        int answer = 0;
+
+       
+        for (int num : ans) {
+            answer = answer * 10 + num;
         }
 
         return answer * flag;
