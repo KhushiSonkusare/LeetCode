@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -41,9 +42,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
