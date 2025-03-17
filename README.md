@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0792-binary-search) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KhushiSonkusare/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
