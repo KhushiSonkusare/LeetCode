@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KhushiSonkusare/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0792-binary-search) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KhushiSonkusare/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
