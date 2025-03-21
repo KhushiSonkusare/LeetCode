@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KhushiSonkusare/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KhushiSonkusare/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/KhushiSonkusare/LeetCode/tree/master/0118-pascals-triangle) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KhushiSonkusare/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KhushiSonkusare/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
