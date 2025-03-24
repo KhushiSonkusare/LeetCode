@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KhushiSonkusare/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KhushiSonkusare/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KhushiSonkusare/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/KhushiSonkusare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/KhushiSonkusare/LeetCode/tree/master/0118-pascals-triangle) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KhushiSonkusare/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KhushiSonkusare/LeetCode/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
