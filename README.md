@@ -127,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KhushiSonkusare/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KhushiSonkusare/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KhushiSonkusare/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
