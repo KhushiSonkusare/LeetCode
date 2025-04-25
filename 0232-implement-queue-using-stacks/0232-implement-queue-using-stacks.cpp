@@ -1,48 +1,36 @@
-#include<stack>
 class MyQueue {
-private:
-    stack<int> s;
 public:
-    MyQueue() {
-        
-    }
-    void insertAtBottom(int x) {
-        if (s.empty()) {
-            s.push(x);
-            return;
+    stack<int> enqueue; // temp stack
+    stack<int> dequeue; // always holds the queue in correct order
+
+    MyQueue() {}
+
+    void push(int x) {
+        // Move all elements from dequeue to enqueue
+        while (!dequeue.empty()) {
+            enqueue.push(dequeue.top());
+            dequeue.pop();
         }
 
-        int temp = s.top();
-        s.pop();
-        insertAtBottom(x);
-        s.push(temp);
+        dequeue.push(x);
+
+        while (!enqueue.empty()) {
+            dequeue.push(enqueue.top());
+            enqueue.pop();
+        }
     }
-    
-    void push(int x) {
-        insertAtBottom(x);
-    }
-    
+
     int pop() {
-        int val = s.top();
-        s.pop();
+        int val = dequeue.top();
+        dequeue.pop();
         return val;
     }
-    
+
     int peek() {
-        int val = s.top();
-        return val;
+        return dequeue.top();
     }
-    
+
     bool empty() {
-        return s.empty();
+        return dequeue.empty();
     }
 };
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue* obj = new MyQueue();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->peek();
- * bool param_4 = obj->empty();
- */
