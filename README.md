@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/1500-count-largest-group) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/KhushiSonkusare/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhushiSonkusare/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
