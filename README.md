@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KhushiSonkusare/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KhushiSonkusare/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/KhushiSonkusare/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
