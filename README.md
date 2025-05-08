@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KhushiSonkusare/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/KhushiSonkusare/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/KhushiSonkusare/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KhushiSonkusare/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KhushiSonkusare/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
