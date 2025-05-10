@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KhushiSonkusare/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KhushiSonkusare/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KhushiSonkusare/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/KhushiSonkusare/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [2478-longest-nice-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KhushiSonkusare/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KhushiSonkusare/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KhushiSonkusare/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KhushiSonkusare/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KhushiSonkusare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KhushiSonkusare/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0047-permutations-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KhushiSonkusare/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KhushiSonkusare/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
@@ -267,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KhushiSonkusare/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
