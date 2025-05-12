@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KhushiSonkusare/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2610-closest-prime-numbers-in-range](https://github.com/KhushiSonkusare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KhushiSonkusare/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KhushiSonkusare/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/KhushiSonkusare/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
