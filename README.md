@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KhushiSonkusare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiSonkusare/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/KhushiSonkusare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KhushiSonkusare/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KhushiSonkusare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/KhushiSonkusare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/KhushiSonkusare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/KhushiSonkusare/LeetCode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
