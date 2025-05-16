@@ -1,24 +1,34 @@
-class Solution(object):
-    def lengthAfterTransformations(self, s, t):
-        mod = 10**9 + 7
-        nums = [0]*26
-        for ch in s:
-            nums[ord(ch) - 97] += 1
+#include <vector>
+#include <string>
 
-        for _ in range(t):
-            cur = [0]*26
-            z = nums[25]
-            if z:
-                # 'z' → 'a' and 'b'
-                cur[0] = (cur[0] + z) % mod
-                cur[1] = (cur[1] + z) % mod
-            for j in range(25):
-                v = nums[j]
-                if v:
-                    cur[j+1] = (cur[j+1] + v) % mod
-            nums = cur
+class Solution {
+public:
+    int lengthAfterTransformations(std::string s, int t) {
+        const int MOD = 1000000007;
+        std::vector<int> cnt(26, 0);
 
-        res = 0
-        for v in nums:
-            res = (res + v) % mod
-        return res
+        for (char c : s) {
+            cnt[c - 'a']++;
+        }
+
+        for (int j = 0; j < t; j++) {
+            std::vector<int> tmp(26, 0);
+            for (int i = 0; i < 26; i++) {
+                if (i == 25) {
+                    tmp[0] = (tmp[0] + cnt[i]) % MOD;
+                    tmp[1] = (tmp[1] + cnt[i]) % MOD;
+                } else {
+                    tmp[i + 1] = (tmp[i + 1] + cnt[i]) % MOD;
+                }
+            }
+            cnt = tmp;
+        }
+
+        int len = 0;
+        for (int c : cnt) {
+            len = (len + c) % MOD;
+        }
+
+        return len;
+    }
+};
