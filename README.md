@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/KhushiSonkusare/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KhushiSonkusare/LeetCode/tree/master/0049-group-anagrams) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -209,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KhushiSonkusare/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KhushiSonkusare/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
