@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/KhushiSonkusare/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KhushiSonkusare/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/1500-count-largest-group) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KhushiSonkusare/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KhushiSonkusare/LeetCode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/KhushiSonkusare/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KhushiSonkusare/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KhushiSonkusare/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -407,10 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
 |  |
@@ -430,4 +435,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
