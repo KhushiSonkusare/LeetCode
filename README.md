@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Memoization
 |  |
 | ------- |
