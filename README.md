@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KhushiSonkusare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/KhushiSonkusare/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/KhushiSonkusare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/KhushiSonkusare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhushiSonkusare/LeetCode/tree/master/0032-longest-valid-parentheses) |
