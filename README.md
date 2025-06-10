@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KhushiSonkusare/LeetCode/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KhushiSonkusare/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/KhushiSonkusare/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0079-word-search) |
+| [0424-longest-repeating-character-replacement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/2478-longest-nice-subarray) |
