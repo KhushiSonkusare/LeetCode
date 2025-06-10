@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KhushiSonkusare/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KhushiSonkusare/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSonkusare/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushiSonkusare/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/KhushiSonkusare/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSonkusare/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [2915-count-of-interesting-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSonkusare/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2478-longest-nice-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
