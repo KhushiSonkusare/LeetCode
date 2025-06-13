@@ -1,30 +1,24 @@
 class Solution {
+    void backtrack(vector<int>& nums, vector<bool>& used, vector<int>& sub, vector<vector<int>>& res) {
+        if (sub.size() == nums.size()) {
+            res.push_back(sub);
+            return;
+        }
+        for (int i = 0; i < nums.size(); i++) {
+            if (used[i]) continue;
+            used[i] = true;
+            sub.push_back(nums[i]);
+            backtrack(nums, used, sub, res);
+            sub.pop_back();
+            used[i] = false;
+        }
+    }
 public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> res;
-        if (nums.size() == 1) {
-            vector<int> singleList;
-            singleList.push_back(nums[0]);
-            res.push_back(singleList);
-            return res;
-        }
-
-        for (int i = 0; i < nums.size(); i++) {
-            int n = nums[i];
-            vector<int> remainingNums;
-            for (int j = 0; j < nums.size(); j++) {
-                if (j != i) {
-                    remainingNums.push_back(nums[j]);
-                }
-            }
-            
-            vector<vector<int>> perms = permute(remainingNums);
-            for (vector<int> p : perms) {
-                p.insert(p.begin(), n);  // Insert n at the beginning of the permutation
-                res.push_back(p);  // Append the modified permutation to the result
-            }
-        }
-        
-        return res;    
+        vector<int> sub;
+        vector<bool> used(nums.size(), false);
+        backtrack(nums, used, sub, res);
+        return res;
     }
 };
