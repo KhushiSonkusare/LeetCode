@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/KhushiSonkusare/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KhushiSonkusare/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/KhushiSonkusare/LeetCode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/KhushiSonkusare/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/KhushiSonkusare/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/KhushiSonkusare/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/KhushiSonkusare/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/KhushiSonkusare/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2050-count-good-numbers) |
 ## Combinatorics
