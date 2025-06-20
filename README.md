@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KhushiSonkusare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/KhushiSonkusare/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/KhushiSonkusare/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KhushiSonkusare/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/KhushiSonkusare/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/KhushiSonkusare/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
