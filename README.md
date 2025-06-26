@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KhushiSonkusare/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/KhushiSonkusare/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/KhushiSonkusare/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/1250-longest-common-subsequence) |
