@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1250-longest-common-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhushiSonkusare/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/KhushiSonkusare/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/KhushiSonkusare/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
