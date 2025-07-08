@@ -1,27 +1,30 @@
 class Solution {
 public:
-    void helper(vector<int>& candidates, int target, int index,
-                vector<int>& curr, set<vector<int>>& result) {
+    void helper(vector<vector<int>>& ans, vector<int>& curr,
+                vector<int>& candidates, int ind, int target) {
         if (target == 0) {
-            result.insert(curr);  // Use set to store only unique combinations
+            ans.push_back(curr);
             return;
         }
-        if (target < 0 || index >= candidates.size()) return;
 
-        // Include current number
-        curr.push_back(candidates[index]);
-        helper(candidates, target - candidates[index], index + 1, curr, result);
-        curr.pop_back();
+        for (int i = ind; i < candidates.size(); i++) {
+            if (i > ind && candidates[i] == candidates[i - 1])
+                continue;
 
-        // Skip current number
-        helper(candidates, target, index + 1, curr, result);
+            if (candidates[i] > target)
+                break;
+
+            curr.push_back(candidates[i]);
+            helper(ans, curr, candidates, i + 1, target - candidates[i]); 
+            curr.pop_back();
+        }
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());  // Sorting helps avoid duplicate issues
-        set<vector<int>> result;
+        sort(candidates.begin(), candidates.end()); 
+        vector<vector<int>> ans;
         vector<int> curr;
-        helper(candidates, target, 0, curr, result);
-        return vector<vector<int>>(result.begin(), result.end());  // Convert set to vector
+        helper(ans, curr, candidates, 0, target);
+        return ans;
     }
 };
