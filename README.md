@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KhushiSonkusare/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KhushiSonkusare/LeetCode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/KhushiSonkusare/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0494-target-sum) |
