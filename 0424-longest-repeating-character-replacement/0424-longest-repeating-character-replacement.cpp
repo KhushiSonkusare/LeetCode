@@ -1,25 +1,21 @@
-#include <unordered_map>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        unordered_map<char, int> freqs;
-        int res = 0, i = 0, maxFreq = 0;
+        vector<int> freq(26, 0);
+        int left = 0, maxFreq = 0, result = 0;
 
-        for (int j = 0; j < s.size(); j++) {
-            freqs[s[j]]++;
-            maxFreq = max(maxFreq, freqs[s[j]]);
+        for (int right = 0; right < s.size(); right++) {
+            freq[s[right] - 'A']++;
+            maxFreq = max(maxFreq, freq[s[right] - 'A']);
 
-            while ((j - i + 1) - maxFreq > k) {
-                freqs[s[i]]--;
-                i++;
+            while ((right - left + 1) - maxFreq > k) {
+                freq[s[left] - 'A']--;
+                left++;
             }
 
-            res = max(res, j - i + 1);
+            result = max(result, right - left + 1);
         }
 
-        return res;
+        return result;
     }
 };
