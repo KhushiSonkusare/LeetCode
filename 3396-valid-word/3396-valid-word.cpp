@@ -1,33 +1,32 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    bool isAlphaNumeric(const string &word) {
-        for (char c : word) {
-            if (!isalnum(c)) return false; 
-        }
-        return true;
-    }
-
     bool isValid(string word) {
-        if (word.size() < 3 || !isAlphaNumeric(word)) {
+        int n=word.size();
+        if(n<3)
+        {
             return false;
         }
-
-        string vowels = "aeiouAEIOU"; 
-        bool hasCons = false, hasVow = false;
-
-        for (char c : word) {
-            if (isalpha(c)) { 
-                if (vowels.find(c) != string::npos) {
-                    hasVow = true;
-                } else {
-                    hasCons = true;
+        bool vowel=false;
+        bool consonant=false;
+        for(auto it:word)
+            {
+                if(!isalnum(it))
+                {
+                    return false;
+                }
+                if(isalpha(it))
+                {
+                    char ch=tolower(it);
+                    if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u')
+                    {
+                        vowel=true;
+                    }
+                    else
+                    {
+                        consonant=true;
+                    }
                 }
             }
-        }
-
-        return hasCons && hasVow;
+        return vowel&&consonant;
     }
 };
