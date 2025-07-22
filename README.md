@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KhushiSonkusare/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/KhushiSonkusare/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KhushiSonkusare/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KhushiSonkusare/LeetCode/tree/master/0057-insert-interval) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/KhushiSonkusare/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KhushiSonkusare/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KhushiSonkusare/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KhushiSonkusare/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0073-set-matrix-zeroes) |
