@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/KhushiSonkusare/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/KhushiSonkusare/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KhushiSonkusare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushiSonkusare/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushiSonkusare/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KhushiSonkusare/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/KhushiSonkusare/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KhushiSonkusare/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/KhushiSonkusare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/KhushiSonkusare/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KhushiSonkusare/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/KhushiSonkusare/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/KhushiSonkusare/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhushiSonkusare/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
