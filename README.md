@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushiSonkusare/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/KhushiSonkusare/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/KhushiSonkusare/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushiSonkusare/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/KhushiSonkusare/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushiSonkusare/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/KhushiSonkusare/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
