@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/KhushiSonkusare/LeetCode/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/KhushiSonkusare/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/KhushiSonkusare/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0213-house-robber-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushiSonkusare/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushiSonkusare/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/KhushiSonkusare/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
