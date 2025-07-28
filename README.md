@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KhushiSonkusare/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KhushiSonkusare/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KhushiSonkusare/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/KhushiSonkusare/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushiSonkusare/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/KhushiSonkusare/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushiSonkusare/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/KhushiSonkusare/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KhushiSonkusare/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Tree
