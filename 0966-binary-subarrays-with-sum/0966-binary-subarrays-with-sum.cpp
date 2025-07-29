@@ -1,25 +1,21 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return atmostK(nums, goal) - atmostK(nums, goal - 1);
-    }
-private:
-    int atmostK(vector<int>& nums, int goal) {
-        int i = 0;
-        int j = 0;
-        int sum = 0;
-        int ans = 0;
+    int helper(vector<int> &nums, int goal){
+        int left = 0, count = 0, sum = 0;
 
-        while (i < nums.size()) {
-            sum += nums[i];
+        for(int right = 0; right< nums.size(); right++){
+            sum+= nums[right];
 
-            while (j <= i && sum > goal) {
-                sum -= nums[j];
-                j++;
+            while(left<= right && sum>goal){
+                sum-= nums[left];
+                left++;
             }
-            ans += i - j + 1;
-            i++;
+
+            count+= right - left +1;
         }
-        return ans;
+        return count;
+    }
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        return helper(nums, goal) - helper(nums, goal -1);
     }
 };
