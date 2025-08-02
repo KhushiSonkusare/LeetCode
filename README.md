@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KhushiSonkusare/LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KhushiSonkusare/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KhushiSonkusare/LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KhushiSonkusare/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KhushiSonkusare/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/KhushiSonkusare/LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/KhushiSonkusare/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/KhushiSonkusare/LeetCode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/KhushiSonkusare/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
