@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KhushiSonkusare/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhushiSonkusare/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushiSonkusare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KhushiSonkusare/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2145-grid-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KhushiSonkusare/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/KhushiSonkusare/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KhushiSonkusare/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhushiSonkusare/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/KhushiSonkusare/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhushiSonkusare/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/KhushiSonkusare/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KhushiSonkusare/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
