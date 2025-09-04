@@ -1,31 +1,39 @@
 class Solution {
 public:
-    bool dfs(vector<vector<char>>& board, string& word, int i, int j, int index) {
-        if (index == word.size()) return true;
+    bool helper(vector<vector<char>>& board, string &word, int ind, int i, int j, int rows, int cols) {
+        if (ind == word.size()) {
+            return true; 
+        }
 
-        if (i < 0 || i >= board.size() ||
-            j < 0 || j >= board[0].size() ||
-            board[i][j] != word[index]) return false;
+        if (i < 0 || j < 0 || i >= rows || j >= cols || word[ind] != board[i][j] || board[i][j] == '!') {
+            return false;
+        }
 
-        char temp = board[i][j];
-        board[i][j] = '#'; 
+        char c = board[i][j];
+        board[i][j] = '!'; 
+        bool found = helper(board, word, ind + 1, i - 1, j, rows, cols) ||  // up
+                     helper(board, word, ind + 1, i + 1, j, rows, cols) ||  // down
+                     helper(board, word, ind + 1, i, j - 1, rows, cols) ||  // left
+                     helper(board, word, ind + 1, i, j + 1, rows, cols);    // right
 
-        
-        bool found = dfs(board, word, i + 1, j, index + 1) ||
-                     dfs(board, word, i - 1, j, index + 1) ||
-                     dfs(board, word, i, j + 1, index + 1) ||
-                     dfs(board, word, i, j - 1, index + 1);
-
-        board[i][j] = temp; 
+        board[i][j] = c; 
         return found;
     }
 
     bool exist(vector<vector<char>>& board, string word) {
-        for (int i = 0; i < board.size(); ++i) {
-            for (int j = 0; j < board[0].size(); ++j) {
-                if (dfs(board, word, i, j, 0)) return true;
+        int rows = board.size();
+        int cols = board[0].size();
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (board[i][j] == word[0]) {
+                    if (helper(board, word, 0, i, j, rows, cols)) {
+                        return true;
+                    }
+                }
             }
         }
+
         return false;
     }
 };
