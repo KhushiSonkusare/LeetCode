@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KhushiSonkusare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/KhushiSonkusare/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/KhushiSonkusare/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KhushiSonkusare/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/KhushiSonkusare/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KhushiSonkusare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/KhushiSonkusare/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
