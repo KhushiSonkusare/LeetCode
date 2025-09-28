@@ -1,13 +1,13 @@
 # Write your MySQL query statement below
-(select 
-employee_id, department_id 
+select
+    employee_id, department_id
 from 
-Employee
+    Employee
 group by employee_id
-having count(*) = 1)
-union
-(select 
-employee_id, department_id 
+having count(*) = 1
+union 
+select
+    employee_id, department_id
 from 
-Employee
-where primary_flag = 'Y')
+    Employee
+where primary_flag = 'Y'
