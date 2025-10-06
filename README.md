@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/KhushiSonkusare/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/KhushiSonkusare/LeetCode/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KhushiSonkusare/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/KhushiSonkusare/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/KhushiSonkusare/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/KhushiSonkusare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/KhushiSonkusare/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KhushiSonkusare/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KhushiSonkusare/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KhushiSonkusare/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/KhushiSonkusare/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/KhushiSonkusare/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhushiSonkusare/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/KhushiSonkusare/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -858,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/KhushiSonkusare/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -887,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhushiSonkusare/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/KhushiSonkusare/LeetCode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/KhushiSonkusare/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/KhushiSonkusare/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KhushiSonkusare/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -901,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KhushiSonkusare/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/KhushiSonkusare/LeetCode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/KhushiSonkusare/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/KhushiSonkusare/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/KhushiSonkusare/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
