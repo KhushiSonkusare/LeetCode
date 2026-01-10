@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/KhushiSonkusare/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushiSonkusare/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KhushiSonkusare/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/KhushiSonkusare/LeetCode/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/KhushiSonkusare/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KhushiSonkusare/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushiSonkusare/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/KhushiSonkusare/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KhushiSonkusare/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/KhushiSonkusare/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/KhushiSonkusare/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/KhushiSonkusare/LeetCode/tree/master/0867-new-21-game) |
